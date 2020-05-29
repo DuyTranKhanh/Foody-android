@@ -1,4 +1,4 @@
-package hcmute.edu.vn.nhom09.foody.foody;
+package hcmute.edu.vn.nhom03.foody;
 
 import org.junit.Test;
 
